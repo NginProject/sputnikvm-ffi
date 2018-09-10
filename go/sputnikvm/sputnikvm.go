@@ -33,7 +33,7 @@ package sputnikvm
 import "C"
 
 import (
-	"github.com/ethereumproject/go-ethereum/common"
+	"github.com/NginProject/ngind/common"
 	"math/big"
 	"unsafe"
 )
